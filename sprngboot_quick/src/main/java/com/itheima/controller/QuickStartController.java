@@ -11,7 +11,7 @@ public class QuickStartController {
     @RequestMapping("/hello")
     @ResponseBody
     public String quick(){
-		sout
-        return "hello nihaospringboot";
+
+        return "hello world";
     }
 }
